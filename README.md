@@ -1,60 +1,32 @@
-\# Análise de Vendas com Power BI
+# Análise de Vendas com Power BI
 
+Projeto de Business Intelligence desenvolvido para analisar o desempenho comercial e transformar dados em informações para a tomada de decisão.
 
+## Objetivo
 
-\## Sobre o projeto
+Desenvolver um dashboard interativo para acompanhar indicadores de vendas, identificar padrões comerciais e comparar o desempenho de produtos, cidades e vendedores.
 
-Projeto de análise de dados comerciais desenvolvido com Power BI, com o objetivo de transformar dados de vendas em informações úteis para a tomada de decisão.
+## Ferramentas utilizadas
 
+- **Power BI** — criação do dashboard interativo.
+- **DAX** — criação de medidas e indicadores.
+- **Modelagem de dados** — estruturação dos dados para análise.
 
+## Indicadores e análises
 
-\## Objetivos
+- Faturamento total
+- Quantidade de vendas
+- Ticket médio
+- Desempenho por produto
+- Comparação de vendas por cidade e vendedor
+- Evolução das vendas ao longo do tempo
 
-\- Analisar o desempenho das vendas.
+## Arquivo do projeto
 
-\- Identificar produtos e localidades com maior volume de vendas.
+O relatório está disponível no arquivo `.pbix` deste repositório e pode ser aberto com o Power BI Desktop.
 
-\- Acompanhar indicadores comerciais.
+## Autor
 
-\- Facilitar a visualização dos resultados por meio de dashboards interativos.
+**Luiz Gustavo Costa Ferreira**
 
-
-
-\## Ferramentas utilizadas
-
-\- Power BI
-
-\- DAX
-
-\- Modelagem de dados
-
-\- Visualização de dados
-
-
-
-\## Principais análises
-
-\- Faturamento total
-
-\- Quantidade vendida
-
-\- Ticket médio
-
-\- Desempenho por produto, cidade e vendedor
-
-\- Evolução das vendas ao longo do tempo
-
-
-
-\## Como visualizar
-
-O arquivo `.pbix` está disponível neste repositório e pode ser aberto no Power BI Desktop.
-
-
-
-\## Autor
-
-Luiz Gustavo Costa Ferreira
-
-
-
+[Meu perfil no GitHub](https://github.com/LuizGustavooFerreira)
